@@ -20,13 +20,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Principal IT Business Systems Analyst"
   company = "Medtronic"
-  company_url = "www.medtronic.com"
+  company_url = ""
   location = "California"
   date_start = "2010-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
   * TODO
   * TODO
   * TODO
@@ -35,10 +33,14 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior IT Business Systems Analyst"
   company = "Medtronic"
-  company_url = "www.medtronic.com"
+  company_url = ""
   location = "California"
   date_start = "2007-02-01"
   date_end = "2010-06-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  * TODO
+  * TODO
+  * TODO
+  """
 
 +++
