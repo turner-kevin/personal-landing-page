@@ -1,7 +1,7 @@
 ---
 title: Kevin Turner
 role: IT Business Analyst | Data Analyst | Web Developer | App Developer
-avatar_filename: kevin_chewie.jpg
+avatar_filename: avatar.jpg
 organizations: []
 superuser: true
 authors:
