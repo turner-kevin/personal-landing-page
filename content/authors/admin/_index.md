@@ -1,10 +1,11 @@
 ---
+title: Kevin Turner
+role: IT Business Analyst | Data Analyst | Web Developer | App Developer
+avatar_filename: img_20190404_205909.jpg
 organizations: []
 superuser: true
 authors:
   - admin
-title: Kevin Turner
-role: IT Business Analyst | Data Analyst | Web Developer | App Developer
 bio: ""
 interests:
   - ""
