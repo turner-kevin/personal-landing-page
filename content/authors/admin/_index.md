@@ -16,12 +16,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/turner-kevin
+  - link: www.linkedin.com/in/kevindeeturner
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: Bachelor of Science Data Management/Data Analytics
       institution: Western Governors University
       year: 2019
-email: "kturner@kevinturner.dev"
+email: kturner@kevinturner.dev
 user_groups:
   - Researchers
   - Visitors
