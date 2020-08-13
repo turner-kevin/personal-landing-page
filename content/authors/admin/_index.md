@@ -13,12 +13,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
+  - link: https://www.linkedin.com/in/kevindeeturner
+    icon_pack: fab
+    icon: linkedin
   - icon: github
     icon_pack: fab
     link: https://github.com/turner-kevin
-  - link: www.linkedin.com/in/kevindeeturner
-    icon_pack: fab
-    icon: linkedin
 education:
   courses:
     - course: Bachelor of Science Data Management/Data Analytics
