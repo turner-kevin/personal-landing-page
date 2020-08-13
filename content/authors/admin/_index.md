@@ -21,7 +21,7 @@ education:
     - course: Bachelor of Science Data Management/Data Analytics
       institution: Western Governors University
       year: 2019
-email: ""
+email: "kturner@kevinturner.dev"
 user_groups:
   - Researchers
   - Visitors
